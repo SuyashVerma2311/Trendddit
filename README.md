@@ -1,0 +1,2 @@
+# Trendddit
+A Reddit Clone
